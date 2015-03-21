@@ -23,5 +23,5 @@ Spent most of my time learning Github and LiceCap
 Walkthrough of all user stories:
 
 
-GIF created with LiceCap.
+GIF created with LiceCap. 
 
