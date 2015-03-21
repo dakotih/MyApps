@@ -7,10 +7,9 @@ Time spent:
 2 hours building application and 5 hours total
 
 Completed all Required stories:
-Tip Settings page
-User has three options to adjust tip amount
-When user taps on screen keyboard drops from view
-
+Tip settings page
+Three options to adjust tip amount
+User taps screen and keyboard drops
 
 Added the following Optional stories:
 Changed font and color on landing page
