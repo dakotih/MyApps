@@ -22,9 +22,7 @@ Spent most of my time learning GitHub
 
 **Walkthrough of all user stories:**
 
-![tipCalculator](file:///Users/andrewhoughton/Desktop/tipCalculator.gif)
-
-
+<img src="https://cloud.githubusercontent.com/assets/11452076/6766695/10e25074-cfce-11e4-929f-f5ba52b2f0dd.gif"/>
 
 GIF created with [LiceCap] (http://www.licecap.com). 
 
