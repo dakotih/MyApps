@@ -17,12 +17,12 @@ Time spent:
 - [x] Custom font and color in app
 - [x] Added Image Asset - The glyph is from [TheNounProject](http://www.thenounproject.com).
 
->Notes:
+Notes:
 Spent most of my time (4 hours) learning GitHub.
 
 **Walkthrough of all user stories:**
 
 <img src="https://cloud.githubusercontent.com/assets/11452076/6766695/10e25074-cfce-11e4-929f-f5ba52b2f0dd.gif"/>
 
-GIF created with [LiceCap] (/http://www.cockos.com/licecap/m). 
+GIF created with [LiceCap] (http://www.cockos.com/licecap/). 
 
