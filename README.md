@@ -4,7 +4,7 @@ This is an iOS applicatioin for calculating the tip.
 I created this Tip Calculator for the Codepath application.
 
 Time spent:  
-2 hours building application and 5 hours total
+3 hours building application and 7 hours total
 
 <p>Completed all required stories:</p>
 
@@ -18,7 +18,7 @@ Time spent:
 - [x] Added Image Asset - The glyph is from [TheNounProject](http://www.licecap.com).
 
 <p>Notes:</p>
-Spent most of my time learning GitHub
+Spent most of my time (4 hours) learning GitHub
 
 **Walkthrough of all user stories:**
 
