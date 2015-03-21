@@ -22,7 +22,7 @@ Spent most of my time learning GitHub
 
 **Walkthrough of all user stories:**
 
-![Video Walkthrough](tipCalculator.gif)
+![Tipster](tipCalculator.gif)
 
 
 
