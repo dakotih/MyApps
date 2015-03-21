@@ -6,7 +6,7 @@ I created this Tip Calculator for the Codepath application.
 **Time spent:** 
 3 hours building application and 7 hours total
 
-<p>**Completed all required stories:**</p>
+**Completed all required stories:**
 
 - [x] Tip settings page
 - [x] Three options to adjust tip amount
