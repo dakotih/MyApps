@@ -15,14 +15,14 @@ Time spent:
 <p>Added the following Optional stories:</p>
 - [x] Custom font and color on landing page
 - [x] Custom font and color in app
-- [x] Added Image Asset - The glyph is from [TheNounProject](http://www.licecap.com).
+- [x] Added Image Asset - The glyph is from [TheNounProject](http://www.thenounproject.com).
 
-<p>Notes:</p>
-Spent most of my time (4 hours) learning GitHub
+>Notes:
+Spent most of my time (4 hours) learning GitHub.
 
 **Walkthrough of all user stories:**
 
 <img src="https://cloud.githubusercontent.com/assets/11452076/6766695/10e25074-cfce-11e4-929f-f5ba52b2f0dd.gif"/>
 
-GIF created with [LiceCap] (http://www.licecap.com). 
+GIF created with [LiceCap] (/http://www.cockos.com/licecap/m). 
 
