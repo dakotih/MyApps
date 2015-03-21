@@ -12,13 +12,14 @@ I created this Tip Calculator for the Codepath application.
 - [x] Three options to adjust tip amount
 - [x] Tap screen and keyboard drops
 
-<**Added the following Optional stories:**
+**Added the following Optional stories:**
+
 - [x] Custom font and color on landing page
 - [x] Custom font and color in app
 - [x] Added Image Asset - The glyph is from [TheNounProject](http://www.thenounproject.com).
 
 **Notes:**
-Spent most of my time (4 hours) learning GitHub.
+I spent most of my time (4 hours) learning GitHub.
 
 **Walkthrough of all user stories:**
 
