@@ -8,15 +8,13 @@ Time spent:
 
 Completed all Required stories: 
 Tip Settings page
-
 User has three options to adjust tip amount 
-
-When user taps on screen, keyboard drops from view
+When user taps on screen keyboard drops from view
 
 
 Added the following Optional stories:
 Changed font and color on landing page
-Changed fond and color in app
+Changed font and color in app
 Added Image Assets (The glyph is from The Noun Project)
 
 Notes:
