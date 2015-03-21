@@ -22,7 +22,7 @@ Spent most of my time learning GitHub
 
 **Walkthrough of all user stories:**
 
-![Tipster](tipCalculator.gif)
+![tipCalculator](file:///Users/andrewhoughton/Desktop/tipCalculator.gif)
 
 
 
